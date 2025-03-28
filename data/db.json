@@ -1,22 +1,10 @@
 {
   "blogs": [
     {
-      "title": "New Blog",
-      "body": "Felling great!",
-      "author": "Yuvaraj",
-      "id": 1
-    },
-    {
-      "title": "New Blog",
-      "body": "Felling great!",
-      "author": "Durga",
-      "id": 2
-    },
-    {
-      "title": "New Blog",
-      "body": "Felling great!",
-      "author": "Pavan",
-      "id": 3
+      "id": "ea25",
+      "title": "Modda",
+      "body": "Modda Kudu",
+      "author": "Yuvaraj"
     }
   ]
 }
